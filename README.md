@@ -100,3 +100,6 @@ Vision restoration is about training and exercising the eye muscles, despite wha
 - Use your entire field of view to improve central vision.
 - Notice movement between objects and learn to relax.
 - Make peripheral vision awareness a habit.
+
+
+  Discord - visuaicortex
